@@ -66,15 +66,15 @@ button:focus {
   border-radius: .75rem;
   font-size: 2rem;
   height: 6rem;
-  color: #fff;
-  background: #333849;
+  color: black;
+  background-color: lightyellow;;
   text-align: end;
   padding: .5rem;
 }
 
 /* 設置輸入框預設文字的顏色 */
 ::placeholder {
-  color: #fff;
+  color: black;
 }
 
 /* 設置符號按鈕和數字按鈕的樣式 */
@@ -85,7 +85,7 @@ button:focus {
   text-align: center;
   aspect-ratio: 1;
   font-size: 1.25rem;
-  color: #fff;
+  color: black;
   border-radius: 50%;
   transition: .15s ease;
 }
